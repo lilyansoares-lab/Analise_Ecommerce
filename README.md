@@ -32,7 +32,7 @@ Para consolidar os achados de logística e mercado, foi estruturada uma visualiz
 ### 🛠️ Ferramentas Utilizadas
 * **Python**: Linguagem utilizada para o tratamento dos dados.
 * **Pandas & NumPy**: Fusão de tabelas (`merge`), tratamento de nulos e modelagem dos indicadores descritivos.
-* **Plotly**: Construção do mapa coroplético e parametrização geoespacial (`update_layout`, `update_geos`).
+* **Plotly**: Construção de gráfico de barras e mapa em gradiente com parametrização geoespacial (update_layout, update_geos) interativos.
 
 ---
 
