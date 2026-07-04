@@ -1,6 +1,6 @@
-## 🚚 Inteligência de Mercado e Logística: E-Commerce Olist
+# 🚚 Inteligência de Mercado e Logística: E-Commerce Olist
 
-**MBA em Data Science & Advanced Analytics**
+MBA em Data Science & Advanced Analytics
 
 ### 🎯 Objetivo 
 
