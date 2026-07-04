@@ -2,6 +2,7 @@
 
 MBA em Data Science & Advanced Analytics
 
+
 ### 🎯 Objetivo 
 
 O objetivo foi mapear indicadores comerciais e entender o impacto da distribuição geográfica e dos custos de envio no desempenho do e-commerce brasileiro.
