@@ -36,5 +36,5 @@ Para consolidar os achados de logística e mercado, foi estruturada uma visualiz
 
 ---
 
-## 🗃️ Sobre a Base de Dados
-O estudo utiliza dados públicos reais da **Olist**, disponíveis no Kaggle. Os arquivos originais em `.csv` não foram inclusos no repositório por limitações de armazenamento do GitHub.
+#### 🗃️ Sobre a Base de Dados
+O estudo utiliza dados públicos reais da **Olist**, disponíveis no Kaggle.
